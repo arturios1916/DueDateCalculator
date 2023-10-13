@@ -1,3 +1,3 @@
-# due-date
+# DueDateCalculator
 
-due-date-function
+Assessment task for Emarsys company.
